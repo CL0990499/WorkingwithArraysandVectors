@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ctlaw\\OneDrive - Ozarks Technical Community College\\CSC-140\\WorkingwithArraysandVectors\\WorkingWithArraysandVectors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A08428A7-D1DB-4BAE-9B86-B02EF3DA0CFF}|WorkingWithArraysandVectors.vcxproj|C:\\Users\\ctlaw\\OneDrive - Ozarks Technical Community College\\CSC-140\\WorkingwithArraysandVectors\\WorkingWithArraysandVectors\\WorkingWithArraysandVectors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A08428A7-D1DB-4BAE-9B86-B02EF3DA0CFF}|WorkingWithArraysandVectors.vcxproj|solutionrelative:WorkingWithArraysandVectors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkingWithArraysandVectors.cpp",
+              "DocumentMoniker": "C:\\Users\\ctlaw\\OneDrive - Ozarks Technical Community College\\CSC-140\\WorkingwithArraysandVectors\\WorkingWithArraysandVectors\\WorkingWithArraysandVectors.cpp",
+              "RelativeDocumentMoniker": "WorkingWithArraysandVectors.cpp",
+              "ToolTip": "C:\\Users\\ctlaw\\OneDrive - Ozarks Technical Community College\\CSC-140\\WorkingwithArraysandVectors\\WorkingWithArraysandVectors\\WorkingWithArraysandVectors.cpp",
+              "RelativeToolTip": "WorkingWithArraysandVectors.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T00:57:01.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
